@@ -1,15 +1,16 @@
 {
   "packageName": "Nightly Battery Monitor APP",
   "author": "Larry Kahn",
-  "version": "1.0",
+  "version": "1.1.0",
   "minimumHEVersion": "1.0",
-  "dateReleased": "2020-10-19",
+  "dateReleased": "2021-02-09",
+  "releaseNotes": "1.1.0: * Updated with color levels, device hyperlinks, corrected source link, split text notifications over a size of 1024 max to Pushover",
   "apps": [
     {
       "id": "bbee4967-06bb-4d06-b928-3fe31bffbcd8",
       "name": "BatteryMonitor",
       "namespace": "notoriousbdg",
-      "location": "https://raw.githubusercontent.com/lgkahn/hubitat/master/batterymonitor.groovey",
+      "location": "https://raw.githubusercontent.com/lgkahn/hubitat/master/batterymonitor.groovy",
       "required": true,
       "oauth": false,
       "primary": false

@@ -43,7 +43,7 @@ def smartAppRevision () {
             ' * Move app metadata to a new about page\n' +
             ' * Changed notifications to only send at specified time daily\n' +
             ' * modified by lgkahn to send complete message whenever the schedule fires, showing the status of all devices.\n\n' +
-            '2021-02-09  v1.0.0\n' +
+            '2021-02-09  v1.1.0\n' +
             ' * Updated with color levels, device hyperlinks, corrected source link\n' +
             ' * Split text notifications over a size of 1024 max to Pushover\n'
 }
